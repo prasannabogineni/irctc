@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "welcome to IRCTC" %></h2>
+	<h2><%= "welcome to IRCTC2.0.0" %></h2>
 </body>
 </html>
